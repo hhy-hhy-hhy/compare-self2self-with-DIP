@@ -1,0 +1,67 @@
+Step 500, Loss: 3.386749, PSNR: 24.42, SSIM: 0.7356                       
+Step 1000, Loss: 2.932836, PSNR: 25.82, SSIM: 0.7439                      
+Step 1500, Loss: 2.596209, PSNR: 26.29, SSIM: 0.6997                      
+Step 2000, Loss: 2.277517, PSNR: 26.20, SSIM: 0.6381                                       
+Step 2500, Loss: 2.145427, PSNR: 26.06, SSIM: 0.6024                      
+Step 3000, Loss: 2.081400, PSNR: 25.93, SSIM: 0.5850                      
+Step 3500, Loss: 1.992803, PSNR: 25.82, SSIM: 0.5719                      
+Step 4000, Loss: 1.945268, PSNR: 25.84, SSIM: 0.5693                      
+Step 4500, Loss: 1.900498, PSNR: 25.81, SSIM: 0.5642                      
+Step 5000, Loss: 1.867311, PSNR: 25.80, SSIM: 0.5606                      
+σ=25: 最佳 PSNR=26.29   
+                                                  
+训练: D:/Set12/01.png, sigma=35                                           
+
+                                             
+Step 500, Loss: 5.679199, PSNR: 23.54, SSIM: 0.6866                       
+Step 1000, Loss: 4.829849, PSNR: 24.85, SSIM: 0.6442                      
+Step 1500, Loss: 4.092314, PSNR: 24.47, SSIM: 0.5398                      
+Step 2000, Loss: 3.796018, PSNR: 23.91, SSIM: 0.4899                      
+Step 2500, Loss: 3.630239, PSNR: 23.71, SSIM: 0.4721                      
+Step 3000, Loss: 3.497083, PSNR: 23.54, SSIM: 0.4625                      
+Step 3500, Loss: 3.469056, PSNR: 23.39, SSIM: 0.4538                      
+Step 4000, Loss: 3.371387, PSNR: 23.42, SSIM: 0.4517                      
+Step 4500, Loss: 3.325241, PSNR: 23.38, SSIM: 0.4474                      
+Step 5000, Loss: 3.279049, PSNR: 23.32, SSIM: 0.4453                      
+σ=35: 最佳 PSNR=24.85                                                     
+训练: D:/Set12/01.png, sigma=50                                           
+
+                                          
+Step 500, Loss: 9.231593, PSNR: 23.28, SSIM: 0.5380                       
+Step 1000, Loss: 8.186310, PSNR: 22.69, SSIM: 0.4362                      
+Step 1500, Loss: 7.500929, PSNR: 22.02, SSIM: 0.3908                      
+Step 2000, Loss: 7.088897, PSNR: 21.43, SSIM: 0.3633                      
+Step 2500, Loss: 6.814423, PSNR: 21.11, SSIM: 0.3514                      
+Step 3000, Loss: 6.652498, PSNR: 20.90, SSIM: 0.3434                      
+Step 3500, Loss: 6.474385, PSNR: 20.70, SSIM: 0.3381                      
+Step 4000, Loss: 6.268740, PSNR: 20.51, SSIM: 0.3328                      
+Step 4500, Loss: 6.223790, PSNR: 20.53, SSIM: 0.3317                      
+Step 5000, Loss: 6.082465, PSNR: 20.45, SSIM: 0.3293                      
+σ=50: 最佳 PSNR=23.28
+
+Step 500, Loss: 2.053484, PSNR: 24.29, SSIM: 0.7619                       
+Step 1000, Loss: 1.641359, PSNR: 26.11, SSIM: 0.8051                      
+Step 1500, Loss: 1.495427, PSNR: 27.08, SSIM: 0.8180                      
+Step 2000, Loss: 1.335972, PSNR: 27.75, SSIM: 0.8199                      
+Step 2500, Loss: 1.214428, PSNR: 28.29, SSIM: 0.8107                      
+Step 3000, Loss: 1.116424, PSNR: 28.64, SSIM: 0.7942                      
+Step 3500, Loss: 1.080244, PSNR: 28.73, SSIM: 0.7776                      
+Step 4000, Loss: 1.021755, PSNR: 28.79, SSIM: 0.7665                      
+Step 4500, Loss: 0.999799, PSNR: 28.87, SSIM: 0.7586                      
+Step 5000, Loss: 0.981305, PSNR: 28.94, SSIM: 0.7521                      
+01.png, σ=15: 最佳 PSNR=28.94                                             
+训练: D:/Set12/02.png, sigma=15                                           
+
+                                          
+Step 500, Loss: 1.406771, PSNR: 28.22, SSIM: 0.7877                       
+Step 1000, Loss: 1.176644, PSNR: 30.28, SSIM: 0.8174                      
+Step 1500, Loss: 1.092427, PSNR: 31.08, SSIM: 0.8289                      
+Step 2000, Loss: 1.019210, PSNR: 31.57, SSIM: 0.8308                      
+Step 2500, Loss: 0.918212, PSNR: 31.93, SSIM: 0.8258                      
+Step 3000, Loss: 0.828384, PSNR: 31.90, SSIM: 0.8060                      
+Step 3500, Loss: 0.764981, PSNR: 31.48, SSIM: 0.7739                      
+Step 4000, Loss: 0.735345, PSNR: 31.18, SSIM: 0.7538                      
+Step 4500, Loss: 0.698405, PSNR: 31.04, SSIM: 0.7430                      
+Step 5000, Loss: 0.684880, PSNR: 30.92, SSIM: 0.7352                      
+02.png, σ=15: 最佳 PSNR=31.93                                             
+训练: D:/Set12/03.png, sigma=15
